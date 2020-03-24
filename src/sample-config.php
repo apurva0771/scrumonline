@@ -12,6 +12,8 @@ $conn = array(
 $host = "https://scrumonline.local";
 
 $cardSets = [
+    // Yay & Nah
+    ['Yay', 'Nah'],
     // 1, 3, 5, 8
     ['1', '2', '3', '5', '8'],
     // Standard fibonaci like series of values
